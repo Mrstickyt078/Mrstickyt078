@@ -47,4 +47,28 @@
 
 ---
 
+### 📌 Proyectos destacados
+
+- 🐍 **[nombre-proyecto]** — Breve descripción de qué hace y qué aprendiste
+- 🛠️ **[otro-proyecto]** — Una línea explicando el por qué
+
+---
+
+### 📫 Cómo contactarme
+
+<p align="left">
+  <a href="https://linkedin.com/in/tu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:carlos533xd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 👁️ Visitas al perfil
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mrstickyt078&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
 > _"Todo senior fue junior alguna vez. Lo importante es no quedarse quieto."_
