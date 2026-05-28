@@ -34,10 +34,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mrstickyt078&show_icons=true&theme=dark&locale=es" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mrstickyt078&hide_progress=true&theme=dark" />
 </p>
 
