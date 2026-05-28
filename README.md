@@ -28,12 +28,17 @@
 ### 📊 Mis estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mrstickyt078&show_icons=true&theme=tokyonight&locale=es" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mrstickyt078&theme=tokyonight&locale=es" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Mrstickyt078&theme=dark&locale=es" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrstickyt078&layout=compact&theme=tokyonight&locale=es](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mrstickyt078&hide_progress=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mrstickyt078&show_icons=true&theme=dark&locale=es" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mrstickyt078&hide_progress=true&theme=dark" />
 </p>
 
 ---
